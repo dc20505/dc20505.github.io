@@ -1,0 +1,67 @@
+# Navigation Links
+main:
+  - title: "Blog"
+    url: /
+
+  - title: "Writeups"
+    url: /writeups/
+
+  #- title: "Projects"
+  #  url: /projects/
+
+  #- title: "Resources"
+  #  url: /resources/
+
+  #- title: "About"
+  #  url: /about/
+
+
+
+# Navigation for OTW
+otw:
+  - title: "OverTheWire"
+    children:
+      - title: "Summary"
+        url: /writeups/otw/wargames/
+
+  - title: "Wargames"
+    children:
+      - title: "Bandit"
+        url: /writeups/otw/bandit/
+      #- title: "Leviathan"
+      #  url: /writeups/otw/leviathan/
+      #- title: "Krypton"
+      #  url: /writeups/otw/krypton/
+      #- title: "Natas"
+      #  url: /writeups/otw/natas/
+      #- title: "Narnia"
+      #  url: /writeups/otw/narnia/
+      #- title: "Behemoth"
+      #  url: /writeups/otw/behemoth/
+      #- title: "Utumno"
+      #  url: /writeups/otw/utumno/
+      # - title: "Maze"
+      #   url: /writeups/otw/maze/
+      # - title: "Vortex"
+      #   url: /writeups/otw/vortex/
+      # - title: "Semtex"
+      #   url: /writeups/otw/semtex/
+      # - title: "Manpage"
+      #   url: /writeups/otw/manpage/
+      # - title: "Drifter"
+      #   url: /writeups/otw/drifter/
+
+# Navigation for HTB
+htb:
+  - title: "Hack The Box"
+    children:
+      - title: "Summary"
+        url: /writeups/htb/
+
+  - title: "Machines"
+    children:
+      - title: "Legacy"
+        url: /writeups/htb/Legacy/
+
+      
+
